@@ -28,10 +28,8 @@ Includes quick toggles for monitor mode, MAC address spoofing, and power boostin
 
 ## Installation
 
-Clone the repo and run the script:
+System wide install:
 
 ```bash
-git clone https://github.com/socalit/alfa-wifi.git
-cd alfa-wifi
-chmod +x alfa-wifi.sh
-./alfa-wifi.sh wlan1
+sudo curl -s https://raw.githubusercontent.com/socalit/alfa-wifi/main/alfa-wifi.sh -o /usr/local/bin/alfa-wifi
+sudo chmod +x /usr/local/bin/alfa-wifi
