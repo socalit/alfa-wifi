@@ -1,3 +1,7 @@
+🔐 Disclaimer
+
+Use responsibly and legally. This tool is provided for ethical security testing and research.
+
 # alfa-wifi
 
 Interactive tool for managing the **ALFA AWUS036ACH** Wi-Fi adapter (RTL8812AU) on Kali Linux.  
