@@ -26,6 +26,12 @@ Includes quick toggles for monitor mode, MAC address spoofing, and power boostin
 
 ---
 
+## Use:
+
+alfa-wifi wlan1
+
+---
+
 ## Installation
 
 System wide install:
