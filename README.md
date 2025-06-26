@@ -2,7 +2,7 @@
 
 ![ALFA Demo](https://raw.githubusercontent.com/socalit/alfa-wifi/main/docs/demo.png)
 
-# 🔐 Disclaimer
+# Disclaimer
 
 Use responsibly and legally. This tool is provided for ethical security testing and research.
 
